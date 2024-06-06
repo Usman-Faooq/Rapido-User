@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Unselected state -->
+    <item android:id="@+id/unselected" android:drawable="@drawable/icon_unchecked_box_small" android:state_checked="false"/>
+    <!-- Selected state -->
+    <item android:id="@+id/selected" android:drawable="@drawable/icon_checked_box_small" android:state_checked="true"/>
+
+</selector>

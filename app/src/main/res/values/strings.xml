@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Rapido User</string>
+    <string name="sign_up"><u>Sign Up</u></string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="forgot_your_password"><u>Forgot Your Password?</u>></string>
+
+
+    <array name="pharmacy_list">
+        <item>Pharmacy 01</item>
+        <item>Pharmacy 02</item>
+        <item>Pharmacy 03</item>
+    </array>
+
+
+</resources>
